@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Front-End
 - 📫 How to reach me ydemirci7@gmail.com
 
-![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusuf-demirci&show_icons=true)
+
 [![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusuf-demirci)](https://github.com/yusuf-demirci/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-demirci)](https://github.com/yusuf-demirci/github-readme-stats)
