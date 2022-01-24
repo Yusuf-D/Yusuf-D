@@ -4,7 +4,7 @@
 - 📫 How to reach me ydemirci7@gmail.com
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<yusuf-demirci>&theme=<THEME_NAME>" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-demirci&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 
 
 
