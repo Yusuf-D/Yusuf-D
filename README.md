@@ -8,6 +8,7 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:ydemirci7@gmail.com)
 
 [![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusuf-demirci)](https://github.com/yusuf-demirci/github-readme-stats)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-demirci)](https://github.com/yusuf-demirci/github-readme-stats)
 
 # Languages
