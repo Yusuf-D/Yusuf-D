@@ -8,12 +8,12 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:ydemirci7@gmail.com)
 
 [![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusuf-demirci)](https://github.com/yusuf-demirci/github-readme-stats)
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-demirci)](https://github.com/yusuf-demirci/github-readme-stats) --->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-demirci)](https://github.com/yusuf-demirci/github-readme-stats)
 
 # Languages
 
 <a href="#" target="_blank"> <img src="https://img.favpng.com/4/23/21/responsive-web-design-html-computer-icons-css3-world-wide-web-consortium-png-favpng-N5Cgzsntj8KuEqXAzrfGCnF2X.jpg" alt="html" height="100"/> </a>
-<a href="#" target="_blank"> <img src="https://www.sapnesakar.com/img/courses/CSS3.png" alt="css" height="100"/> </a>
+<a href="#" target="_blank"> <img src="https://www.sapnesakar.com/img/courses/CSS3.pnghttps://cdn.freebiesupply.com/logos/thumbs/2x/css3-logo.png" alt="css" height="100"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="100"/> </a>
 <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" height="100"/> </a>
 
