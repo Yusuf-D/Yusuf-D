@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yusuf-demirci
+- 👋 Hi, I’m Yusuf Demirci
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front-End
 - 📫 How to reach me ydemirci7@gmail.com
